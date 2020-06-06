@@ -57,7 +57,6 @@ header {
 }
 
 .logo-link {
-	display: inline-block;
 	margin-top: 39px;
 	float: left;
 	width: 121px;
@@ -73,7 +72,6 @@ header {
 
 .select-wrapper {
   	position: relative;
-	display: inline-block;
 	float: left;
 	margin-top: 51px;
 	margin-left: 59px;
@@ -109,7 +107,6 @@ header {
 }
 
 .hidden-time {
-	display: inline-block;
 	margin-top: 51px;
 	margin-left: 50px;
 	font-size: 16px;
@@ -119,7 +116,6 @@ header {
 
 .news-time.hiddened {
 	position: relative;
-	display: inline-block;
 	margin-left: 0;
 	float: none;
 	left: 24px;
@@ -131,13 +127,11 @@ header {
 }
 
 .weather {
-	display: inline-block;
 	margin-top: 51px;
 	margin-left: 53px;
 	float: left;
 	background-image: url("img/weather.png");
 	background-position: left center;
-	display: inline-block;
 	padding-left: 38px;
 	background-repeat: no-repeat;
 	color: #b8b8c7;
@@ -147,7 +141,6 @@ header {
 
 .search {
 	position: relative;
-	display: inline-block;
 	margin-top: 40px;
 	float: right;
 	position: relative;
@@ -195,7 +188,6 @@ header {
 }
 .menu-options {
    display: inline-block;
-   float: left;
    margin-right: 39px;
 }
 .menu-options a {
@@ -287,14 +279,12 @@ header {
 }
 
 .time-comments {
-	display: inline-block;
 	float: right;
 	margin-right: 30px;
 	font-size: 12px;
 }
 
 .news-time {
-	display: inline-block;
 	float: left;
 	padding-left: 14px;
 	background-image: url('img/icon-time.png');
@@ -305,7 +295,6 @@ header {
 }
 
 .news-comments-count {
-	display: inline-block;
 	float: left;
 	margin-left: 20px;
 	padding-left: 19px;
@@ -515,7 +504,6 @@ header {
 
 .special-news-right {
 	float: right;
-	display: inline-block;
 	width: 412px;
 }
 
@@ -569,7 +557,6 @@ header {
 
 .sitemap {
 	float: left;
-	display: inline-block;
 	columns: 2;
 	width: 256px;
 	list-style-type: none;
@@ -584,12 +571,10 @@ header {
 }
 
 .footer-right {
-	display: inline-block;
 	float: right;
 }
 
 .all-info-left {
-	display: inline-block;
 	list-style-type: none;
 	padding-left: 0;
 	float: left;
@@ -612,7 +597,6 @@ header {
 
 
 .all-info-right {
-	display: inline-block;
 	float: right;
 	list-style-type: none;
 	padding-left: 0;
@@ -643,7 +627,6 @@ header {
 
 .social-item {
 	display: inline-block;
-	float: left;
 	margin-right: 20px;
 }
 
